@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "COM-09032")(type "Legacy")(uri "${KIPRJMOD}/Lib/COM-09032.lib")(options "")(descr ""))
+  (lib (name "NRF52811-QFAA-R")(type "Legacy")(uri "${KIPRJMOD}/Lib/NRF52811-QFAA-R.lib")(options "")(descr ""))
+  (lib (name "OLED-128O064H-GPP3N00000")(type "Legacy")(uri "${KIPRJMOD}/Lib/OLED-128O064H-GPP3N00000.lib")(options "")(descr ""))
+  (lib (name "RFX2401C")(type "Legacy")(uri "${KIPRJMOD}/Lib/RFX2401C.lib")(options "")(descr ""))
+  (lib (name "TTP223_")(type "Legacy")(uri "${KIPRJMOD}/Lib/TTP223_.lib")(options "")(descr ""))
+)

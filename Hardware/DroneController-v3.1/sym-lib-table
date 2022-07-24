@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "TouchPad")(type "KiCad")(uri "C:/Users/turga/Documents/KiCad/6.0/symbols/TouchPad.kicad_sym")(options "")(descr ""))
+  (lib (name "NRF52811-QFAA-R")(type "Legacy")(uri "${KIPRJMOD}/Lib/NRF52811-QFAA-R.lib")(options "")(descr ""))
+  (lib (name "L6924D013TR")(type "Legacy")(uri "${KIPRJMOD}/Lib/L6924D013TR.lib")(options "")(descr ""))
+  (lib (name "TTP223_")(type "Legacy")(uri "${KIPRJMOD}/Lib/TTP223_.lib")(options "")(descr ""))
+  (lib (name "RFX2401C")(type "Legacy")(uri "${KIPRJMOD}/Lib/RFX2401C.lib")(options "")(descr ""))
+)
